@@ -1,0 +1,41 @@
+{
+   "clear-day": {
+      "char": "\uf00d"
+   },
+   "clear-night": {
+      "char": "\uf02e"
+   },
+   "rain": {
+      "char": "\uf019"
+   },
+   "snow": {
+      "char": "\uf01b"
+   },
+   "sleet": {
+      "char": "\uf0b5"
+   },
+   "wind": {
+      "char": "\uf050"
+   },
+   "fog": {
+      "char": "\uf014"
+   },
+   "cloudy": {
+      "char": "\uf013"
+   },
+   "partly-cloudy-day": {
+      "char": "\uf002"
+   },
+   "partly-cloudy-night": {
+      "char": "\uf031"
+   },
+   "hail": {
+      "char": "\uf015"
+   },
+   "thunderstorm": {
+      "char": "\uf01e"
+   },
+   "tornado": {
+      "char": "\uf056"
+   }
+}
